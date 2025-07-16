@@ -4,7 +4,6 @@ import './index.css'
 import * as yup from 'yup'
 import axios from 'axios'
 import { useState } from 'react'
-import { userData } from './hooks/useData'
 
 const schema = yup.object({
   userInput: yup
@@ -20,8 +19,6 @@ export const App = () => {
   // Guarda la respuesta de llama2
   const [response, setResponse] = useState('')
   const [loading, setLoading] = useState(false)
-  const { multiplicar } = userData()
-  console.log(multiplicar(5))
 
   const handlePregunta = async (data) => {
     console.log(data)
