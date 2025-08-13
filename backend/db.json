@@ -1,0 +1,118 @@
+{
+  "messages": [
+    {
+      "id": 1753843770544,
+      "text": "Hola mundo",
+      "sender": "user",
+      "timestamp": "2025-07-30T02:49:30.544Z"
+    },
+    {
+      "id": 1754011376906,
+      "text": "Cuál es la capital de Francia?",
+      "sender": "user",
+      "timestamp": "2025-08-01T01:22:56.906Z"
+    },
+    {
+      "id": 1754011408436,
+      "text": "\nLa capital de Francia es París.",
+      "sender": "bot",
+      "timestamp": "2025-08-01T01:23:28.436Z"
+    },
+    {
+      "id": 1754011433397,
+      "text": "Qué es React?",
+      "sender": "user",
+      "timestamp": "2025-08-01T01:23:53.397Z"
+    },
+    {
+      "id": 1754011655058,
+      "text": "Qué es React?",
+      "sender": "user",
+      "timestamp": "2025-08-01T01:27:35.058Z"
+    },
+    {
+      "id": 1754011657666,
+      "text": "Qué es React?",
+      "sender": "user",
+      "timestamp": "2025-08-01T01:27:37.666Z"
+    },
+    {
+      "id": 1754011658358,
+      "text": "Qué es React?",
+      "sender": "user",
+      "timestamp": "2025-08-01T01:27:38.358Z"
+    },
+    {
+      "id": 1754011660097,
+      "text": "Qué es React?",
+      "sender": "user",
+      "timestamp": "2025-08-01T01:27:40.097Z"
+    },
+    {
+      "id": 1754011660278,
+      "text": "Qué es React?",
+      "sender": "user",
+      "timestamp": "2025-08-01T01:27:40.278Z"
+    },
+    {
+      "id": 1754011662136,
+      "text": "Qué es React?",
+      "sender": "user",
+      "timestamp": "2025-08-01T01:27:42.136Z"
+    },
+    {
+      "id": 1754011662586,
+      "text": "Qué es React?",
+      "sender": "user",
+      "timestamp": "2025-08-01T01:27:42.586Z"
+    },
+    {
+      "id": 1754011664176,
+      "text": "Qué es React?",
+      "sender": "user",
+      "timestamp": "2025-08-01T01:27:44.176Z"
+    },
+    {
+      "id": 1754011664626,
+      "text": "Qué es React?",
+      "sender": "user",
+      "timestamp": "2025-08-01T01:27:44.626Z"
+    },
+    {
+      "id": 1754011699636,
+      "text": "Qué es React?",
+      "sender": "user",
+      "timestamp": "2025-08-01T01:28:19.636Z"
+    },
+    {
+      "id": 1754011705329,
+      "text": "Qué es React?",
+      "sender": "user",
+      "timestamp": "2025-08-01T01:28:25.329Z"
+    },
+    {
+      "id": 1754011711788,
+      "text": "Qué es React?",
+      "sender": "user",
+      "timestamp": "2025-08-01T01:28:31.788Z"
+    },
+    {
+      "id": 1754011714260,
+      "text": "Qué es React?",
+      "sender": "user",
+      "timestamp": "2025-08-01T01:28:34.260Z"
+    },
+    {
+      "id": 1754011744968,
+      "text": "Qué es React?",
+      "sender": "user",
+      "timestamp": "2025-08-01T01:29:04.968Z"
+    },
+    {
+      "id": 1754012258030,
+      "text": "Qué es React?",
+      "sender": "user",
+      "timestamp": "2025-08-01T01:37:38.030Z"
+    }
+  ]
+}
